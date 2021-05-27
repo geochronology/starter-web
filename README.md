@@ -16,4 +16,4 @@ yum
 
 ## how to contribute
 
-fjord
+fjordz
