@@ -12,7 +12,7 @@ asdf
 
 ## taco
 
-yum
+yum foo
 
 ## how to contribute
 
